@@ -1,0 +1,328 @@
+2020-03-09 10:31:35,526 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 10:31:35,526 SeleniumDriver.py--> __init__ 20: INFO -->当前打开浏览器为:chrome
+2020-03-09 12:05:56,598 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:05:56,598 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:06:32,841 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:06:32,841 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:06:36,852 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:07:40,116 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:07:40,116 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:07:42,467 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:08:41,104 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:08:41,104 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:08:43,190 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:09:20,643 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:09:20,644 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:09:22,838 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:10:14,572 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:10:14,572 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:10:17,069 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:10:50,921 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:10:50,921 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:10:54,264 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:11:44,179 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:11:44,180 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:11:48,359 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 12:12:08,427 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 12:12:08,427 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 12:12:14,131 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:18:59,054 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:18:59,054 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:19:00,859 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:39:03,161 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:39:03,161 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:39:05,383 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:45:19,572 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:45:19,572 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:45:21,991 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:46:47,023 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:46:47,023 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:46:48,092 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:51:57,663 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:51:57,664 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:51:57,664 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:51:58,862 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:51:59,110 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 15:51:59,110 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 15:52:24,483 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:52:24,483 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:52:24,483 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:52:25,809 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:52:26,199 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 15:52:26,199 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 15:52:58,991 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:03,740 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:04,654 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:07,993 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:08,964 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:09,911 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:10,799 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:11,647 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:53:17,382 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:53:17,382 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:53:17,887 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:53:19,809 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 15:53:19,809 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 15:56:19,766 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 15:56:24,758 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 15:56:24,758 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 15:56:26,888 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 15:56:26,947 WebDriverWait.py--> until 20: INFO -->成功定位元素:baidu_button
+2020-03-09 15:56:27,381 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 15:56:27,381 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 15:58:42,881 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:04:28,415 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:04:59,830 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:04:59,831 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 16:05:03,875 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 16:05:03,943 WebDriverWait.py--> until 20: INFO -->成功定位元素:baidu_button
+2020-03-09 16:05:04,453 ElementUtlis.py--> click_element 20: INFO -->点击元素:baidu_button
+2020-03-09 16:05:04,453 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:05:04,454 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:06:21,736 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:06:48,311 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:06:48,311 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:07:06,283 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:07:07,800 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:07:07,826 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:07:07,826 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:07:22,913 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:07:40,324 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:07:40,326 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:07:54,687 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:07:56,121 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:07:56,146 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:07:56,146 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:07:59,409 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:08:10,200 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:08:10,200 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:08:21,682 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:08:23,129 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:08:23,152 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:08:23,152 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:08:30,566 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:08:57,162 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:08:57,162 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:09:09,045 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:09:10,507 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:09:10,535 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:09:10,535 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:09:13,736 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:19:39,426 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:19:47,543 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:19:52,637 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:19:52,637 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:19:58,845 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:20:00,410 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:20:00,437 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:20:00,437 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:20:03,545 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:20:08,531 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:20:08,531 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:20:16,015 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:20:17,471 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:20:17,496 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:20:17,497 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:20:20,646 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:20:25,422 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:20:25,422 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:20:33,738 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:20:35,162 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:20:35,186 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:20:35,186 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:20:38,268 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:20:43,208 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:20:43,208 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:20:49,988 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:20:51,480 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:20:51,504 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:20:51,504 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:20:54,591 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:20:59,490 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:20:59,490 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:21:07,299 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:21:08,779 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:21:08,806 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:21:08,806 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:21:11,971 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:21:16,735 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:21:16,736 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:21:24,234 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:21:25,686 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:21:25,711 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:21:25,711 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:24:27,637 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:24:32,584 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:24:32,584 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:24:37,676 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:24:39,115 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:24:39,138 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:24:39,138 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:24:42,284 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:30:36,410 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:30:41,330 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:30:41,330 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:30:47,276 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:30:48,702 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:30:48,729 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:30:48,729 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:30:51,823 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:31:33,251 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:31:38,017 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:31:38,017 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 16:31:41,275 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 16:32:25,291 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:32:30,683 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:32:35,629 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:32:35,630 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.baidu.com/
+2020-03-09 16:32:39,002 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:百度一下,结果:True
+2020-03-09 16:39:05,071 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:39:09,978 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:39:09,978 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:39:17,730 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:39:19,166 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:39:19,194 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:39:19,194 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:39:22,283 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:39:27,227 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:39:27,227 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:39:28,404 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:40:38,334 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:40:43,227 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:40:43,227 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:40:46,722 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:40:48,155 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:43:52,774 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:43:57,802 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:43:57,802 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:44:05,935 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:44:07,390 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:45:15,045 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:45:20,127 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:45:20,128 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:45:26,047 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:45:27,524 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:48:25,401 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:48:34,448 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:48:39,449 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:48:39,449 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:48:47,217 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:48:48,648 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:48:48,674 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:48:48,674 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:48:51,858 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:48:56,608 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:48:56,608 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:49:00,198 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:49:16,058 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:49:20,993 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:49:20,994 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:49:27,183 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:49:28,637 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:49:28,662 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:49:28,662 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:49:31,766 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:49:36,489 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:49:36,489 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:49:42,808 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:49:44,262 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:49:44,290 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:49:44,290 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:49:47,435 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:50:55,310 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:50:59,979 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:50:59,980 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:51:04,583 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:51:06,020 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_pop
+2020-03-09 16:51:06,052 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_pop
+2020-03-09 16:51:06,097 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:51:06,146 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_login
+2020-03-09 16:51:07,975 WebDriverWait.py--> until 20: INFO -->成功定位元素:phone
+2020-03-09 16:51:08,112 ElementUtlis.py--> send_value 20: INFO -->元素:phone，输入值:111111111111111111111111111111111111111111
+2020-03-09 16:51:08,160 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-09 16:51:08,185 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:
+2020-03-09 16:51:08,236 WebDriverWait.py--> until 20: INFO -->成功定位元素:login_submit
+2020-03-09 16:51:08,280 ElementUtlis.py--> click_element 20: INFO -->点击元素:login_submit
+2020-03-09 16:51:08,328 WebDriverWait.py--> until 20: INFO -->成功定位元素:phone_error
+2020-03-09 16:51:08,340 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:51:08,340 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:51:11,428 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:51:16,416 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:51:16,417 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:51:20,723 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:51:22,669 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_pop
+2020-03-09 16:51:22,743 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_pop
+2020-03-09 16:51:22,800 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:51:22,841 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_login
+2020-03-09 16:51:23,928 WebDriverWait.py--> until 20: INFO -->成功定位元素:phone
+2020-03-09 16:51:23,991 ElementUtlis.py--> send_value 20: INFO -->元素:phone，输入值:123
+2020-03-09 16:51:24,040 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-09 16:51:24,089 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:tangjing1995
+2020-03-09 16:51:24,139 WebDriverWait.py--> until 20: INFO -->成功定位元素:login_submit
+2020-03-09 16:51:24,178 ElementUtlis.py--> click_element 20: INFO -->点击元素:login_submit
+2020-03-09 16:51:24,227 WebDriverWait.py--> until 20: INFO -->成功定位元素:phone_error
+2020-03-09 16:51:24,240 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:51:24,240 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:51:27,471 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:51:32,400 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:51:32,401 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:51:37,776 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:51:39,723 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_pop
+2020-03-09 16:51:39,771 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_pop
+2020-03-09 16:51:39,822 WebDriverWait.py--> until 20: INFO -->成功定位元素:click_login
+2020-03-09 16:51:39,862 ElementUtlis.py--> click_element 20: INFO -->点击元素:click_login
+2020-03-09 16:51:40,973 WebDriverWait.py--> until 20: INFO -->成功定位元素:phone
+2020-03-09 16:51:41,024 ElementUtlis.py--> send_value 20: INFO -->元素:phone，输入值:15800816652
+2020-03-09 16:51:41,075 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-09 16:51:41,107 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123
+2020-03-09 16:51:41,155 WebDriverWait.py--> until 20: INFO -->成功定位元素:login_submit
+2020-03-09 16:51:41,203 ElementUtlis.py--> click_element 20: INFO -->点击元素:login_submit
+2020-03-09 16:51:41,264 WebDriverWait.py--> until 20: INFO -->成功定位元素:password_error
+2020-03-09 16:51:41,284 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:51:41,285 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:51:44,405 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:51:49,242 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:51:49,243 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:51:56,184 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:51:57,310 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:51:57,310 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:52:00,394 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:52:05,193 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:52:05,194 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:52:10,985 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:52:12,099 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:52:12,099 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 16:52:15,174 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-09 16:52:19,965 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,文件位置配置:D:\seleniumDownload
+2020-03-09 16:52:19,965 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://www.imooc.com/
+2020-03-09 16:52:23,263 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:慕课网,结果:True
+2020-03-09 16:52:24,395 ElementUtlis.py--> close 20: INFO -->========================================================测试结束========================================================
+2020-03-09 16:52:24,396 ElementUtlis.py--> close 20: INFO -->
+
+2020-03-09 18:42:51,864 handle_exec.py--> load_excel 20: INFO -->文件路径不存在:config/data/xlsx

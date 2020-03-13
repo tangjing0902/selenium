@@ -1,0 +1,277 @@
+2020-03-12 10:20:37,710 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 10:20:43,161 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 10:21:23,385 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 10:21:28,545 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 10:22:21,939 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 10:22:30,956 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 10:22:36,203 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 10:22:37,595 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 10:22:42,816 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 10:22:42,891 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 10:22:51,692 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 10:22:51,763 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 10:22:51,830 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:27:32,276 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:27:37,539 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:27:38,912 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:27:44,309 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:27:44,369 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:28:42,851 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:28:47,703 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:28:53,184 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:28:54,561 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:29:00,464 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:29:00,521 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:29:24,464 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:29:24,524 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:29:24,612 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:30:11,043 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:32:31,855 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:32:36,638 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:32:38,008 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:32:46,295 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:32:46,343 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:33:18,886 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:33:18,958 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:33:19,035 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:33:31,230 WebDriverWait.py--> until 20: INFO -->元素查找失败:username
+2020-03-12 14:33:34,856 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:33:40,276 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:33:41,654 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:33:46,784 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:33:46,843 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:35:36,947 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:35:37,000 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:35:37,055 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:35:38,151 WebDriverWait.py--> until 20: INFO -->成功定位元素:username
+2020-03-12 14:35:38,206 ElementUtlis.py--> send_value 20: INFO -->元素:username，输入值:t_jintang_ex
+2020-03-12 14:35:38,254 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-12 14:35:38,287 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123@abAB
+2020-03-12 14:38:36,902 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:38:42,281 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:38:43,729 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:38:48,559 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:38:48,616 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:40:11,790 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:40:11,844 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:40:11,927 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:41:15,532 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:41:20,404 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:41:21,783 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:41:28,934 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:41:28,996 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:41:32,875 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:41:32,929 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:41:32,999 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:41:45,209 WebDriverWait.py--> until 20: INFO -->元素查找失败:username
+2020-03-12 14:41:59,582 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:42:04,756 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:42:06,136 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:42:13,661 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:42:13,720 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:42:16,358 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 14:42:16,411 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 14:42:16,484 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 14:44:31,062 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:44:35,832 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:46:11,640 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:46:16,440 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:46:25,075 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:46:29,961 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:46:44,019 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:46:49,526 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:46:50,904 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:47:09,412 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:47:33,667 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:47:38,584 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:48:31,083 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 14:48:36,505 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 14:48:37,887 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 14:48:42,069 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 14:48:42,132 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 14:48:42,187 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 15:03:16,811 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:03:21,625 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:03:23,004 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:03:25,566 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:03:25,628 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 15:03:31,180 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 15:03:31,235 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 15:03:31,309 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 15:04:14,080 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:04:19,296 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:04:20,680 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:04:24,889 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:06:06,827 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:06:11,633 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:06:13,016 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:06:19,521 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:06:40,811 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 15:07:45,839 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:07:51,115 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:07:52,480 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:07:57,036 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:08:16,115 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:08:21,003 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:08:22,406 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:08:29,444 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:08:50,752 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 15:10:01,715 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:10:06,678 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:10:08,059 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:10:14,075 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:11:13,726 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:11:19,304 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:11:20,723 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:11:27,292 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:11:27,307 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:11:48,608 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 15:12:12,559 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:12:18,307 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:12:19,687 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:12:24,862 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:12:24,884 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:12:25,894 ElementUtlis.py--> close_web_name 20: INFO -->False
+2020-03-12 15:12:43,857 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:12:48,743 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:12:50,124 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:12:56,628 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:12:56,646 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:12:57,680 ElementUtlis.py--> close_web_name 20: INFO -->False
+2020-03-12 15:13:18,508 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:13:23,544 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:13:24,919 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:13:41,791 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 15:13:41,793 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 15:13:41,796 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:13:42,083 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:13:42,083 ElementUtlis.py--> assert_title 20: INFO -->data;
+2020-03-12 15:13:43,097 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:13:43,100 ElementUtlis.py--> close_web_name 20: INFO -->False
+2020-03-12 15:13:43,100 ElementUtlis.py--> assert_title 20: INFO -->data;
+2020-03-12 15:13:43,103 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:14:03,345 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 15:15:15,604 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:15:20,484 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:15:21,876 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:15:35,553 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 15:15:45,556 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 15:15:45,559 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:15:45,572 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:15:45,572 ElementUtlis.py--> assert_title 20: INFO -->data
+2020-03-12 15:15:56,604 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:15:56,607 ElementUtlis.py--> close_web_name 20: INFO -->False
+2020-03-12 15:15:56,607 ElementUtlis.py--> assert_title 20: INFO -->data
+2020-03-12 15:16:06,609 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:16:26,854 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 15:31:54,127 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 15:31:58,953 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 15:32:00,328 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 15:32:03,848 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 15:32:13,851 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 15:32:13,852 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 15:32:13,859 ElementUtlis.py--> close_web_name 20: INFO -->3333333333
+2020-03-12 15:32:13,859 ElementUtlis.py--> assert_title 20: INFO -->data
+2020-03-12 15:32:24,871 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:32:24,875 ElementUtlis.py--> close_web_name 20: INFO -->False
+2020-03-12 15:32:24,875 ElementUtlis.py--> assert_title 20: INFO -->data
+2020-03-12 15:32:34,876 ElementUtlis.py--> assert_title 20: INFO -->
+2020-03-12 15:32:55,118 WebDriverWait.py--> until 20: INFO -->元素查找失败:atc_enter_login
+2020-03-12 17:39:36,707 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:39:41,865 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:39:43,276 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:39:47,811 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:39:57,814 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:39:57,815 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:39:57,871 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:40:00,884 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:40:00,940 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:40:01,007 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:40:13,182 WebDriverWait.py--> until 20: INFO -->元素查找失败:username
+2020-03-12 17:40:48,035 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:40:53,486 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:40:54,886 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:41:07,167 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:41:17,169 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:41:17,171 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:41:17,223 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:41:20,587 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:41:20,654 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:41:20,734 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:41:36,967 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:41:42,464 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:41:43,855 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:41:50,154 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:42:00,156 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:42:00,160 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:42:00,208 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:42:04,259 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:42:04,313 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:42:04,417 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:42:15,409 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:42:20,776 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:42:22,196 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:42:39,006 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:42:49,014 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:42:49,016 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:42:49,062 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:42:52,578 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:42:52,635 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:42:52,727 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:42:56,809 WebDriverWait.py--> until 20: INFO -->成功定位元素:username
+2020-03-12 17:42:56,867 ElementUtlis.py--> send_value 20: INFO -->元素:username，输入值:t_jintang_ex
+2020-03-12 17:42:56,912 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-12 17:42:56,944 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123@abAB
+2020-03-12 17:47:47,296 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:47:52,154 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:47:53,521 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:48:22,336 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:48:32,339 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:48:32,342 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:48:32,406 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:48:34,944 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:48:35,008 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:48:35,080 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:48:39,164 WebDriverWait.py--> until 20: INFO -->成功定位元素:username
+2020-03-12 17:48:39,209 ElementUtlis.py--> send_value 20: INFO -->元素:username，输入值:t_jintang_ex
+2020-03-12 17:48:39,259 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-12 17:48:39,291 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123@abAB
+2020-03-12 17:48:39,339 WebDriverWait.py--> until 20: INFO -->成功定位元素:submit
+2020-03-12 17:48:40,505 ElementUtlis.py--> click_element 20: INFO -->点击元素:submit
+2020-03-12 17:56:08,494 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:56:13,233 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:56:14,609 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://wetest.qq.com/
+2020-03-12 17:56:40,721 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:56:50,724 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:56:50,726 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:56:50,776 WebDriverWait.py--> until 20: INFO -->成功定位元素:atc_enter_login
+2020-03-12 17:57:13,259 ElementUtlis.py--> click_element 20: INFO -->点击元素:atc_enter_login
+2020-03-12 17:57:13,335 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:57:13,424 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 17:57:17,486 WebDriverWait.py--> until 20: INFO -->成功定位元素:username
+2020-03-12 17:57:17,529 ElementUtlis.py--> send_value 20: INFO -->元素:username，输入值:t_jintang_ex
+2020-03-12 17:57:17,585 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-12 17:57:17,618 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123@abAB
+2020-03-12 17:57:17,667 WebDriverWait.py--> until 20: INFO -->成功定位元素:submit
+2020-03-12 17:57:19,235 ElementUtlis.py--> click_element 20: INFO -->点击元素:submit
+2020-03-12 17:58:15,332 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:58:20,276 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:58:21,656 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://atc.qq.com/
+2020-03-12 17:58:26,064 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:58:42,414 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:58:47,700 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:59:09,421 WebDriverWait.py--> until 20: INFO -->元素查找失败:tapd_login
+2020-03-12 17:59:28,168 ElementUtlis.py--> __init__ 20: INFO -->========================================================测试开始========================================================
+2020-03-12 17:59:33,630 ElementUtlis.py--> __open_browser 20: INFO -->当前测试浏览器:chrome ,下载文件路径配置:D:/
+2020-03-12 17:59:35,384 ElementUtlis.py--> __get_url 20: INFO -->测试线上网页:https://atc.qq.com/
+2020-03-12 17:59:46,785 ElementUtlis.py--> assert_title 20: INFO -->WeTest
+2020-03-12 17:59:56,790 ElementUtlis.py--> assert_title 20: INFO -->WeTest腾讯质量开放平台 - 专注游戏，提升品质
+2020-03-12 17:59:56,796 ElementUtlis.py--> open_url_is_true 20: INFO -->当前网页:WeTest,结果:True
+2020-03-12 17:59:56,848 WebDriverWait.py--> until 20: INFO -->成功定位元素:tapd_login
+2020-03-12 17:59:56,921 ElementUtlis.py--> click_element 20: INFO -->点击元素:tapd_login
+2020-03-12 18:00:00,988 WebDriverWait.py--> until 20: INFO -->成功定位元素:username
+2020-03-12 18:00:01,043 ElementUtlis.py--> send_value 20: INFO -->元素:username，输入值:t_jintang_ex
+2020-03-12 18:00:01,091 WebDriverWait.py--> until 20: INFO -->成功定位元素:password
+2020-03-12 18:00:01,118 ElementUtlis.py--> send_value 20: INFO -->元素:password，输入值:123@abAB
+2020-03-12 18:00:01,164 WebDriverWait.py--> until 20: INFO -->成功定位元素:submit
+2020-03-12 18:00:02,631 ElementUtlis.py--> click_element 20: INFO -->点击元素:submit
